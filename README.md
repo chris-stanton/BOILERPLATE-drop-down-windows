@@ -12,6 +12,14 @@
 
 <img src="./public/assets/images/screenshots/screenshotTwo.png" width="50%">
 
+<img src="./public/assets/images/screenshots/screenshotExpanded.png" width="50%">
+
+###### Mobile:
+<img src="./public/assets/images/screenshots/mobileOne.png" width="50%">
+
+<img src="./public/assets/images/screenshots/mobileTwo.png" width="50%">
+
+
 ---
 
 ## Technologies Used
