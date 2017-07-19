@@ -4,13 +4,13 @@
 ---
 
 ## Description:
-#### HTML, CSS and Bootstrap, drop-down window boilerplate.
+#### HTML, CSS and Bootstrap, drop-down window boilerplate.  There are two main topic areas that contain multiple drop-down window options.
+
 ##### Desktop Views:
 ###### Home:
-<img src="./assets/images/screenshots/screenshot.png" width="50%">
+<img src="./public/assets/images/screenshots/screenshotOne.png" width="50%">
 
-###### Mobile:
-<img src="./assets/images/screenshots/screenshot.png" width="50%">
+<img src="./public/assets/images/screenshots/screenshotTwo.png" width="50%">
 
 ---
 
